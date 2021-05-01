@@ -35,7 +35,7 @@ Figura 2: esempio di gerarchia dei sintomi attraverso la proprietà “has_sublc
 
 •	L’arco che collegate le malattie e i sintomi attraverso la proprietà “has_symptom”, Figura (3)
 
-PNG
+![](IMG/Esempio_gerarchia_malattie.png)
 Figura 3: esempio di collegamento tramite la proprietà “has_symptom” tra la malattia “febbre gialla” e il sintomo “itterizio” ovvero colorazione gialla della pelle
 
 
