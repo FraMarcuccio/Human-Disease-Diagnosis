@@ -5,7 +5,7 @@
 2. [Modello di dominio](#modello-di-dominio)
 3. [Requisiti specifici](#requisiti-specifici)
 4. [Stile architetturale](#stile-architetturale)
-4.1. [Api utilizzate](#api-utilizzate)
+  -[Api utilizzate](#api-utilizzate)
   -[Acquisizione dei dati](#acquisizione-dei-dati)
   -[Manipiolazione dei dati](#manipolazione-dei-dati)
   -[Modello probabilistico](#modello-probabilistico)
