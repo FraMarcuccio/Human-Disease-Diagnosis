@@ -25,17 +25,17 @@ Viene utilizzata l’ontologia “DOID: Disease Ontology” in sola lettura. È 
 Per creare la base di conoscenza (KB) le classi prese in considerazione sono state due: Disease (malattie) e Symptom (sintomi), prese attraverso la proprietà “has_symptom”.
 •	La classe malattia (disease) è suddivisa in sottoclassi, fino alla foglia, che rappresenta la vera malattia, Figura (1)
 
-PNG
+![](IMG/Esempio_gerarchia_malattie.png)
 Figura 1: esempio di gerarchia delle malattie attraverso la proprietà “has_sublcass”
 
 •	La classe sintomi (sympton) è suddivisa in sottoclassi, fino alla foglia, che rappresenta il sintomo reale, Figura (2)
 
-PNG
+![](IMG/Esempio_gerarchia_sintomi.png)
 Figura 2: esempio di gerarchia dei sintomi attraverso la proprietà “has_sublcass”
 
 •	L’arco che collegate le malattie e i sintomi attraverso la proprietà “has_symptom”, Figura (3)
 
-![](IMG/Esempio_gerarchia_malattie.png)
+![](IMG/Esempio_malattia_sintomi.png)
 Figura 3: esempio di collegamento tramite la proprietà “has_symptom” tra la malattia “febbre gialla” e il sintomo “itterizio” ovvero colorazione gialla della pelle
 
 
